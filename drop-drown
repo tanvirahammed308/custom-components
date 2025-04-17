@@ -1,0 +1,10 @@
+<div className="relative">
+  <select className="border border-gray-400 py-2 px-8 outline-none rounded w-full appearance-none">
+    <option value="">Select city</option>
+    <option value="dhaka">Dhaka</option>
+    <option value="chittagong">Chittagong</option>
+    <option value="sylhet">Sylhet</option>
+    <option value="rajshahi">Rajshahi</option>
+  </select>
+  <IoLocationOutline className="absolute top-2 left-2 text-2xl pointer-events-none" />
+</div>
