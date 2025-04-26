@@ -1,0 +1,10 @@
+<div 
+  className="bg-cover bg-center h-48 flex  text-white px-10 py-10 " 
+  style={{ backgroundImage: `url(${banner3})` }}
+>
+  <div className='text-white font-bold space-y-2'>
+    <p className='text-sm'>All Products</p>
+    <h3 className='text-3xl'>Free Shipping on over $50</h3>
+    <button className='bg-[#019267] px-3 py-2 rounded text-sm'>See More Products</button>
+  </div>
+</div>
